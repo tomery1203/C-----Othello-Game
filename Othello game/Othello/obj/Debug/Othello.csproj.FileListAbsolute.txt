@@ -1,0 +1,10 @@
+C:\Users\tomer\source\repos\A23 Ex05 Tomer 205646391 Dan 205570674\Othello\bin\Debug\Othello.exe
+C:\Users\tomer\source\repos\A23 Ex05 Tomer 205646391 Dan 205570674\Othello\bin\Debug\Othello.pdb
+C:\Users\tomer\source\repos\A23 Ex05 Tomer 205646391 Dan 205570674\Othello\obj\Debug\Othello.csprojAssemblyReference.cache
+C:\Users\tomer\source\repos\A23 Ex05 Tomer 205646391 Dan 205570674\Othello\obj\Debug\Othello.Properties.Resources.resources
+C:\Users\tomer\source\repos\A23 Ex05 Tomer 205646391 Dan 205570674\Othello\obj\Debug\Othello.csproj.GenerateResource.cache
+C:\Users\tomer\source\repos\A23 Ex05 Tomer 205646391 Dan 205570674\Othello\obj\Debug\Othello.csproj.CoreCompileInputs.cache
+C:\Users\tomer\source\repos\A23 Ex05 Tomer 205646391 Dan 205570674\Othello\obj\Debug\Othello.exe
+C:\Users\tomer\source\repos\A23 Ex05 Tomer 205646391 Dan 205570674\Othello\obj\Debug\Othello.pdb
+C:\Users\tomer\source\repos\A23 Ex05 Tomer 205646391 Dan 205570674\Othello\obj\Debug\Othello.GameSettings.resources
+C:\Users\tomer\source\repos\A23 Ex05 Tomer 205646391 Dan 205570674\Othello\obj\Debug\Othello.OthelloForm.resources
